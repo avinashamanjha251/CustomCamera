@@ -1,0 +1,15 @@
+{
+  "originHash" : "1fe211128747ebd775ad7b52862262226648fc6bdc23c599d0c1818a07d273ca",
+  "pins" : [
+    {
+      "identity" : "skphotobrowser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/suzuki-0000/SKPhotoBrowser",
+      "state" : {
+        "revision" : "f9d8589310ad935270c2b24b3f97c5a89970aff5",
+        "version" : "7.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}
