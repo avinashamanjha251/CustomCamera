@@ -1,8 +1,9 @@
 # CustomCamera
 
 
-![1](https://github.com/user-attachments/assets/26c3f9bc-8d4d-459a-9118-13a944e23b4c)
+![1](https://github.com/user-attachments/assets/5a4d5bcf-ee31-4af9-8550-dbba3f28f461)
 
 
 
-![2](https://github.com/user-attachments/assets/597ff814-7e23-451e-bbe6-596265bc429d)
+
+![2](https://github.com/user-attachments/assets/9feb7256-0e64-41f0-b58e-1df6c467ad0e)
